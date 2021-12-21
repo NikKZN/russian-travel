@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 730px) {
   .lead__title {
-    font-size: 13vw;
+    font-size: 13vw; /*Сделал почти:) плавный переход*/
   }
 }
 
