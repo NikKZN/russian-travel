@@ -14,9 +14,11 @@
 
 
 **Применяемые технологии**
+
 * Графический редактор «Фигма»
 * Верстка на Grid Layout
 * Использование media queries для задания специфических правил для разных размеров экранов.
 
 **Ссылка на GitHub Pages**
 
+https://nikkzn.github.io/russian-travel/index.html
