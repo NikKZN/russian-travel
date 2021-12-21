@@ -1,0 +1,17 @@
+.place-website__link {
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-bottom: 1px solid white;
+}
+
+.place-website__link:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 730px) {
+  .place-website__link {
+    margin: 0 16px 32px;
+  }
+}

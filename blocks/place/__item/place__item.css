@@ -1,0 +1,15 @@
+.place__item:not(:last-child) {
+  margin: 0 0 80px;
+}
+
+@media screen and (max-width: 930px) {
+  .place__item:not(:last-child) {
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__item:not(:last-child) {
+    margin-bottom: 50px;
+  }
+}

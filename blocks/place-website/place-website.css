@@ -1,0 +1,12 @@
+.place-website {
+  align-self: end;
+}
+
+@media screen and (max-width: 730px) {
+  .place-website {
+    order: -2;
+    align-self: flex-start;
+    margin: 0;
+    padding-bottom: 32px;
+  }
+}
